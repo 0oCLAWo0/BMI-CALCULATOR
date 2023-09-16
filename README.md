@@ -36,5 +36,5 @@ The Body Mass Index (BMI) is a valuable tool for assessing your overall health. 
 
 - [**Download APK**](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)
 
-![App Screenshots](Screenshots/s1.jpg)
-![App Screenshots](Screenshots/s2.jpg)
+<img src="Screenshots/s1.jpg" width="300">
+<img src="Screenshots/s2.jpg" width="300">
