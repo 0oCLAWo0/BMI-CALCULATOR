@@ -1,11 +1,25 @@
 # BMI Calculator
 
-## Introduction
+**To ensure good health conditions**
 
-Welcome to Many Games - BMI Calculator, an app designed to help you maintain good health by monitoring your Body Mass Index (BMI). Whether you're concerned about being underweight, overweight, or simply want to keep track of your body weight, this app has you covered.
+Check your body health with BMI calculations.
+
+## Get the APK
+
+- [**Download APK**](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)
 
 ![App Screenshots](Screenshots/screenshot1.png)
 ![App Screenshots](Screenshots/screenshot2.png)
+
+## Platform
+
+- Tested and optimized for Android
+
+## About
+
+### BMI CALCULATOR
+
+Simple inputs like body weight, age, gender are used to predict underweight or overweight or normal body weight using the BMI (body mass index) formula.
 
 ## Features
 
@@ -13,10 +27,6 @@ Welcome to Many Games - BMI Calculator, an app designed to help you maintain goo
 - Stay informed: Get instant feedback on whether you're underweight, overweight, or within a healthy weight range.
 - User-friendly interface: Our app is designed with simplicity in mind, making it accessible for users of all ages.
 - Tested and optimized for Android: Enjoy a seamless experience on your Android device.
-
-## Get the APK
-
-- **[Download APK](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)**
 
 ## How to Use
 
