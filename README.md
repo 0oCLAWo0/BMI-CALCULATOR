@@ -8,8 +8,8 @@ Check your body health with BMI calculations.
 
 - [**Download APK**](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)
 
-![App Screenshots](Screenshots/screenshot1.png)
-![App Screenshots](Screenshots/screenshot2.png)
+![App Screenshots](Screenshots/s1.png)
+![App Screenshots](Screenshots/s2.png)
 
 ## Platform
 
