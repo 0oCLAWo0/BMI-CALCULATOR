@@ -4,13 +4,6 @@
 
 Check your body health with BMI calculations.
 
-## Get the APK
-
-- [**Download APK**](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)
-
-![App Screenshots](Screenshots/s1.jpg)
-![App Screenshots](Screenshots/s2.jpg)
-
 ## Platform
 
 - Tested and optimized for Android
@@ -38,3 +31,10 @@ Simple inputs like body weight, age, gender are used to predict underweight or o
 ## About BMI
 
 The Body Mass Index (BMI) is a valuable tool for assessing your overall health. It calculates your BMI based on your body weight and height, helping you understand if you are underweight, overweight, or within a healthy weight range. It's a simple yet effective way to monitor your well-being.
+
+## Get the APK
+
+- [**Download APK**](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)
+
+![App Screenshots](Screenshots/s1.jpg)
+![App Screenshots](Screenshots/s2.jpg)
