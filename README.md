@@ -41,6 +41,6 @@ The Body Mass Index (BMI) is a valuable tool for assessing your overall health. 
     <img src="Screenshots/s1.jpg" width="200">
   </div>
   <div>
-    <img src="Screenshots/s2.jpd" width="200">
+    <img src="Screenshots/s2.jpg" width="200">
   </div>
 </div>
