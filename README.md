@@ -36,11 +36,13 @@ The Body Mass Index (BMI) is a valuable tool for assessing your overall health. 
 
 - [**Download APK**](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)
 
-<div style="display: flex; flex-direction: row;">
-  <div style="margin-right: 20px;">
-    <img src="Screenshots/s1.jpg" width="200">
-  </div>
-  <div>
-    <img src="Screenshots/s2.jpg" width="200">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="Screenshots/s1.jpg" width="200">
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="Screenshots/s2.jpg" width="200">
+    </td>
+  </tr>
+</table>
