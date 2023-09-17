@@ -8,6 +8,21 @@ Check your body health with BMI calculations.
 
 - Tested and optimized for Android
 
+## Get the APK
+
+- [**Download APK**](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)
+
+<table>
+  <tr>
+    <td>
+      <img src="Screenshots/s1.jpg" width="200">
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="Screenshots/s2.jpg" width="200">
+    </td>
+  </tr>
+</table>  
+
 ## About
 
 ### BMI CALCULATOR
@@ -27,21 +42,6 @@ Simple inputs like body weight, age, gender are used to predict underweight or o
 2. Install the app on your Android device.
 3. Open the app and enter your body weight, age, and gender.
 4. Receive instant feedback on your BMI and body weight status.
-
-## Get the APK
-
-- [**Download APK**](https://drive.google.com/file/d/1IuDEOHG5q-tq_1FoSRq1SrQ8odR6HJMX/view?usp=sharing)
-
-<table>
-  <tr>
-    <td>
-      <img src="Screenshots/s1.jpg" width="200">
-    </td>
-    <td style="padding-left: 20px;">
-      <img src="Screenshots/s2.jpg" width="200">
-    </td>
-  </tr>
-</table>
    
 
 ## About BMI
